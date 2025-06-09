@@ -2,7 +2,7 @@
 Repositorio de pipeline para dengue
 
 # Pipeline de clasificación de archivos .gz por códigos de dengue en R
-# Establecer directorio de trabajo
+## Establecer directorio de trabajo
 setwd("/home/sec-dengue")
 
 # Mostrar contenidos iniciales
