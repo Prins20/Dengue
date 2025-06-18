@@ -60,8 +60,6 @@ cat("Archivos copiados a 'dengue3':", cont3, "\n")
 ## B.*Pipeline de Análisis de Lecturas NGS para Virus DENV2: Control de Calidad, Mapeo, Ensamblaje y Filtrado por Cobertura*
 
 #!/bin/bash
-set -e
-
 # --- 1. Análisis de calidad con FastQC y MultiQC ---
 
 mkdir -p fastqc_reporte
